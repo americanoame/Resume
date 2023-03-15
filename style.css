@@ -15,6 +15,7 @@ margin-top: 30px;
     display: flex;
     justify-content: center;
     align-items: center;
+    font-weight: 600;
     
 }
 
@@ -27,15 +28,16 @@ margin-top: 30px;
     list-style: none;
 }
 
-/* #projects {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-} */
+.project-links {
+    font-size: 18px;
+    font-weight: 600;
+}
 
 
 .date {
     font-size: 18px;
+    font-weight: 600;
+    
 }
 
 
