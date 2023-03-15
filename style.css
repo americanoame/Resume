@@ -22,12 +22,17 @@ margin-top: 30px;
     margin-right: 20px;
 }
 
-
-
  .companies {
     font-size: 22px; 
     list-style: none;
 }
+
+/* #projects {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */
+
 
 .date {
     font-size: 18px;
@@ -37,7 +42,6 @@ margin-top: 30px;
 li {
     font-size: 21px;
 }
-
 
 .about_me-and-technical-skill {
     font-size: 18px;
