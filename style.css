@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit&family=Noto+Sans+JP:wght@900&display=swap');
+
+ * {
+    margin: 0;
+    padding: 0;
+
+} 
+
+#roww {
+margin-top: 30px;
+}
+
+.nobulet {
+    list-style:  none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.github-linkedin a {
+    margin-right: 20px;
+}
+
+
+h2 {
+    font-size: 30px;
+    
+}
+
+
+ .companies {
+    font-size: 23px; 
+    list-style: none;
+}
+
+.date {
+    font-size: 18px;
+}
+
+
+
+li {
+    font-size: 21px;
+}
+
+
+.about_me-and-technical-skill {
+    font-size: 18px;
+}
+
+
+
+
+
+
+
+
+
+
